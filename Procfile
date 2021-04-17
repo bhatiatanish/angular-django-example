@@ -1,1 +1,1 @@
-web: gunicorn k2k_server.wsgi
+web: gunicorn angular_django_example.wsgi
